@@ -1,0 +1,9 @@
+m = int(input('Enter meter: '))
+s = m * 100
+d = m * 10
+mm = m * 1000
+x = m * 0.0006
+print('s =', s, 'sm')
+print('d =', d, 'dm')
+print('mm =', mm, 'mm')
+print('x =', x, 'mile')
