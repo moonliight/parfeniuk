@@ -1,2 +1,2 @@
 print("Button")
-print("Some data")
+print(" data")
